@@ -1,0 +1,9 @@
++ Algoritmo para detectar ciclos en grafos:
+
+    https://users.dcc.uchile.cl/~bebustos/apuntes/cc3001/Grafos/
+
+    Interesante por la implementación de grafos con una Matriz de Adyacencia (A[i,j]=1 si hay un arco que conecta vi con vj
+
++ Implementación grafos y algoritmos de búsqueda PYTHON
+
+    https://sites.google.com/site/programacioniiuno/temario/unidad-5---grafos/algoritmos-de-bsquedas
